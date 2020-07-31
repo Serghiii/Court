@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Корт</string>
+    <string name="app_title">КОРТ</string>
+    <string name="visits_title">Бронювання часу</string>
+    <string name="tab_text_1">Графік</string>
+    <string name="tab_text_2">Інфо</string>
+    <string name="wait">Очікуємо...</string>
+    <string name="msg_err_1">Введено не коректну дату.</string>
+    <string name="msg_err_2">Бронювання на вказану дату не можливе.</string>
+    <string name="msg_err_3">Період бронювання не більше 10 днів.</string>
+    <string name="msg_err_4">Бронювання на вказаний час не можливе.</string>
+    <string name="msg_err_5">Максимальний час бронювання не більше 2 годин.</string>
+    <string name="msg_err_6">Мінімальний час бронювання не менше 30 вилин.</string>
+    <string name="msg_err_7">Час вже заброньовано.</string>
+    <string name="msg_err_8">Прізвище має бути більше 2 символів.</string>
+    <string name="msg_err_9">Введено не коректний час.</string>
+    <string name="msg_err_10">Помилка доступу до данних на сервері.</string>
+    <string name="msg_err_11">Помилка збереження данних на сервері.</string>
+    <string name="msg_err_12">Помилка вилучення данних на сервері.</string>
+    <string name="msg_wrn_1">Вказаний час попадає на робочі часи, продовжити?</string>
+</resources>
